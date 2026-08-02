@@ -56,6 +56,7 @@ GU_MENU = ReplyKeyboardMarkup(
     [
         ["📝 LIC જરૂરિયાત ફોર્મ"],
         ["📞 રૂપાલીનો સંપર્ક"],
+        ["🧮 LIC પ્રીમિયમ કેલ્ક્યુલેટર"],
         ["🌐 ભાષા બદલો"]
     ],
     resize_keyboard=True
@@ -66,6 +67,7 @@ HI_MENU = ReplyKeyboardMarkup(
     [
         ["📝 LIC आवश्यकता फॉर्म"],
         ["📞 रूपाली से संपर्क"],
+        ["🧮 LIC प्रीमियम कैलकुलेटर"],
         ["🌐 भाषा बदलें"]
     ],
     resize_keyboard=True
@@ -76,6 +78,7 @@ EN_MENU = ReplyKeyboardMarkup(
     [
         ["📝 LIC Requirement Form"],
         ["📞 Contact Rupali"],
+        ["🧮 LIC Premium Calculator"],
         ["🌐 Change Language"]
     ],
     resize_keyboard=True
